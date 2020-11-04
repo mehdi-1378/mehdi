@@ -28,7 +28,9 @@ I am studying computer engineering at PNU University.
 
 ### Licenses & Certifications
 
-- nothing
+- ICDL1
+
+- ICDL2
 
 ### Working Experience
 
