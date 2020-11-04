@@ -39,4 +39,4 @@ I am studying computer engineering at PNU University.
 - instagram: <a href="https://instagram.com/_mehdi_a.m?igshid=yozpxjaxsbn6">https://instagram.com/_mehdi_a.m?igshid=yozpxjaxsbn6</a>
 
 
-  Persian Resume: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"> Resume </a>
+  Persian Resume: <a href="https://mehdi-1378.github.io/resume-fa.github.io/"> Resume </a>
