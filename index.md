@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<img src="" />
 
-You can use the [editor on GitHub](https://github.com/mehdi-1378/mehdi-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am mehdi allah moradi.
+I am studying computer engineering at PNU University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: mehdi
+- Last Name: allahmoradi
+- Birth Date: 1999/10/19
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ Javascript
 
-- Bulleted
-- List
++ C++
 
-1. Numbered
-2. List
++ C
 
-**Bold** and _Italic_ and `Code` text
+### Languages
 
-[Link](url) and ![Image](src)
-```
+- Persian(Advanced)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- English(Normal)
 
-### Jekyll Themes
+### Licenses & Certifications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mehdi-1378/mehdi-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- nothing
 
-### Support or Contact
+### Working Experience
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Bootik
+
+### Other Accounts
+  
+- instagram: <a href="https://instagram.com/_mehdi_a.m?igshid=yozpxjaxsbn6">https://instagram.com/_mehdi_a.m?igshid=yozpxjaxsbn6</a>
+
+
+  Persian Resume: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"> Resume </a>
